@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Haven Estate
 
 A responsive, browser-only real-estate listing website built with Next.js App Router, TypeScript, Tailwind CSS, Supabase Auth, PostgreSQL, and private Supabase Storage. No native or desktop application is included.
@@ -95,3 +96,6 @@ Review hosting, database, storage, image bandwidth, email delivery, backup/resto
 - [ ] Replace preview content with client-approved imagery and verified property/agent/contact details.
 - [ ] Agree on video support, admin reporting workflow, hosting tier, backup retention, and operational monitoring.
 - [ ] Run lint, TypeScript, and production-build checks after dependencies are installed.
+=======
+# New-
+>>>>>>> e4681d07fba64cc5ad564fb5c3ae55f2ac6d4106
