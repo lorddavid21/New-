@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#e8e6df"/>
+  <path d="M290 470 600 230l310 240v180H290z" fill="#c4c8bd"/>
+  <path d="M520 650V475h160v175M360 490h120v110H360zm360 0h120v110H720z" fill="#faf9f6"/>
+  <path d="M245 480 600 205l355 275" fill="none" stroke="#536355" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="740" text-anchor="middle" fill="#536355" font-family="Arial,sans-serif" font-size="24" letter-spacing="4">HAVEN ESTATE</text>
+</svg>
